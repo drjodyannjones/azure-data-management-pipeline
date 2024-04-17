@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Authors
 
-- **Jody Ann Jones** - *Initial work* - [drjodyannjones](https://github.com/drjodyannjones)
+- **Dr. Jody Ann Jones** - [drjodyannjones](https://github.com/drjodyannjones)
 
 ## Acknowledgments
 

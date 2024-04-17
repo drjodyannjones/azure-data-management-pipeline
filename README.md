@@ -1,5 +1,9 @@
 # Azure Data Management Pipeline Automation with Terraform
 
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
 This repository contains Terraform scripts designed to automate the setup of data management pipelines in Azure. It provisions a data factory and a storage account, essential components for managing and processing large datasets efficiently.
 
 ## Project Structure
